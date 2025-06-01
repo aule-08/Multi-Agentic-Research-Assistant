@@ -1,0 +1,20 @@
+
+[project]
+
+name = "research-assitant"
+version = "0.1.0"
+description = "An AI powered research assitant using multi-agent collabaration."
+authors = [
+    {name = "aule_08",email = "va7kmilindamadhushan@gmail.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.13"
+
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
